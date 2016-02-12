@@ -1,1 +1,1 @@
-select * from GA
+select * from GA where
